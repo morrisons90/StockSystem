@@ -1,0 +1,2 @@
+# StockSystem
+Based on skopes
